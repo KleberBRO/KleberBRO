@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @KleberBRO
+👋 Hi, I’m @KleberBRO  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KleberBRO)](https://github.com/anuraghazra/github-readme-stats)
+  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KleberBRO) 
 
 <!---
 KleberBRO/KleberBRO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
