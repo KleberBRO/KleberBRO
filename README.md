@@ -1,6 +1,7 @@
 👋 Hi, I’m @KleberBRO  
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KleberBRO)](https://github.com/anuraghazra/github-readme-stats)
-
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KleberBRO&layout=compact)
+  
   ## // Skills  
   ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
